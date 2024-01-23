@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">/> </p>
+<p align="left"> <img src="src="https://komarev.com/ghpvc/?username=abdirahman-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Abdirahman-Hassan">/> </p>
 
 - 🔭 I’m currently working on **Odoo System**
 
